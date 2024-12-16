@@ -3,11 +3,11 @@ já que atualmente ainda existem processos que possuem seus registros realizados
 consigam acompanhar a produção por um meio mais ágil de realizar as mesmas anotações utilizando um banco de dados e um sistema web.
 
 Requisitos necessários:
--Aparecer a TREFILA utilizada.
--Mostrar o Operador que realizou a produção.
--Mostrar quanto tempo a trefila parou se apresentar defeito.
--Exibir o tempo total de produção.
--Exibir a Ordem de Produção e o lote de cobre utilizado.
+-Aparecer a TREFILA utilizada.\
+-Mostrar o Operador que realizou a produção.\
+-Mostrar quanto tempo a trefila parou se apresentar defeito.\
+-Exibir o tempo total de produção.\
+-Exibir a Ordem de Produção e o lote de cobre utilizado.\
 
 
 
