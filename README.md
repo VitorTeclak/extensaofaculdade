@@ -11,7 +11,7 @@ Requisitos necessários:
 
 
 
-Requisitos não necessários:
--Detalhamento de funcionários (Salário, endereço)
--Alimentar o banco.
+Requisitos não necessários:\
+-Detalhamento de funcionários (Salário, endereço)\
+-Alimentar o banco.\
 -Identificar fornecedor do lote de cobre
