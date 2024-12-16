@@ -2,7 +2,7 @@ O trabalho de extensão exige que crie um banco de dados para a empresa PW, já 
 já que atualmente ainda existem processos que possuem seus registros realizados por meio de papel. a intenção da empresa é digitalizar essas etapas de modo que 
 consigam acompanhar a produção por um meio mais ágil de realizar as mesmas anotações utilizando um banco de dados e um sistema web.
 
-Requisitos necessários:
+Requisitos necessários:\
 -Aparecer a TREFILA utilizada.\
 -Mostrar o Operador que realizou a produção.\
 -Mostrar quanto tempo a trefila parou se apresentar defeito.\
