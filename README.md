@@ -7,7 +7,7 @@ Requisitos necessários:
 -Mostrar o Operador que realizou a produção.\
 -Mostrar quanto tempo a trefila parou se apresentar defeito.\
 -Exibir o tempo total de produção.\
--Exibir a Ordem de Produção e o lote de cobre utilizado.\
+-Exibir a Ordem de Produção e o lote de cobre utilizado.
 
 
 
